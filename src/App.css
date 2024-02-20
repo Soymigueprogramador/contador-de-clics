@@ -1,0 +1,27 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  margin: 0;
+}
+
+body{
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.contenedor-general {
+  width: 100%;
+  height: 75vh;
+  background-color: #000;
+  border: 7.5px solid #000;
+}
+
+h1 { 
+  color: #fff;
+  text-align: center;
+  font-size: 1em;
+}
