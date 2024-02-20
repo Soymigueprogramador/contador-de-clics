@@ -5,7 +5,7 @@
 }
 
 body{
-  background-color: #fff;
+  background-color: #000;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -16,8 +16,8 @@ body{
 .contenedor-general {
   width: 100%;
   height: 75vh;
-  background-color: #000;
-  border: 7.5px solid #000;
+  background-color: #fff;
+  border: 7.5px solid #fff;
 }
 
 h1 { 
